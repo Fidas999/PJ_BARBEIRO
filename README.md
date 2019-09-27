@@ -1,2 +1,2 @@
 # PROJ_BARBEIRO
-- Gestão de marcações
+- Gestor de marcações
