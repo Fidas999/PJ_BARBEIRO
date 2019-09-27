@@ -1,2 +1,2 @@
-# PJ_BARBEIRO
+# PROJ_BARBEIRO
 - Gestão de marcações
